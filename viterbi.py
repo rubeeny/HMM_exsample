@@ -1,6 +1,5 @@
 # -*- coding:utf-8 -*-
 # Filename: viterbi.py
-# Author：longzhangchao
 # Date: 2016-012-10 8:51AM
 #状态序列
 states = ('Rainy', 'Sunny')
